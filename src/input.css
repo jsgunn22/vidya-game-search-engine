@@ -1,0 +1,4 @@
+/* Tailwind.css init*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
